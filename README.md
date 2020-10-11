@@ -9,5 +9,7 @@
 * Flexbox и Grid
 * Сторонние шрифты
 
+Ссылка на превью: https://intel-96.github.io/russian-travel/index.html
+
 
 
